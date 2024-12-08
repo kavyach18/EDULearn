@@ -215,7 +215,7 @@
                 </div>
             </div>
 
-            <a href="#">Announcements</a>
+            
             <a href="adminlogin">Logout</a>
         </div>
     </div>
